@@ -1,0 +1,4 @@
+Commodity	:	Prices
+Crude Oil Jan 23 (CL=F)	:	72.76
+Gold Feb 23 (GC=F)	:	1,794.00
+Silver Mar 23 (SI=F)	:	22.77
